@@ -1,6 +1,18 @@
-# flutter_4_wangwu
+# flutter初体验
 
-A new Flutter application.
+a. layout结构
+
+b. navBar 
+
+c. tabbar和列表组件的使用
+
+d. http请求JSON数据，并渲染到列表
+
+e. 组件之间的通信
+
+f.  路由（带参数路由
+
+基于这位大神的博客打出来的代码，本人小白仅供参考
 
 ## Getting Started
 
