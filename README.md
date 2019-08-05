@@ -13,6 +13,7 @@ e. 组件之间的通信
 f.  路由（带参数路由
 
 基于这位大神的博客打出来的代码，本人小白仅供参考
+https://www.jianshu.com/p/bb69f81f6236
 
 ## Getting Started
 
