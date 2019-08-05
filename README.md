@@ -1,3 +1,6 @@
+效果图:
+![网络请求数据显示在列表上](https://github.com/YuxiangZhu/flutter_demo/blob/master/Screenshot_20190805-140750.jpg)
+![小组件之间通信](https://github.com/YuxiangZhu/flutter_demo/blob/master/Screenshot_20190805-140825.jpg)
 # flutter初体验
 
 a. layout结构
